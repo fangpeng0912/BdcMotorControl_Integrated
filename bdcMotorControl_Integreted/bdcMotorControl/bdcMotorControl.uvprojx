@@ -460,6 +460,16 @@
               <FileType>1</FileType>
               <FilePath>.\User\Me\APP_Desired_RPM.c</FilePath>
             </File>
+            <File>
+              <FileName>APP_Desired_POS.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\User\Me\APP_Desired_POS.c</FilePath>
+            </File>
+            <File>
+              <FileName>APP_PositionControl.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\User\Me\APP_PositionControl.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
